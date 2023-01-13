@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Csharp-coding-assignment/obj
+/Csharp-coding-assignment/bin
+/.vs
+/Csharp-coding-assignment/.vs/
+/Csharp-coding-assignment.Tests/obj
+/Csharp-coding-assignment.Tests/bin

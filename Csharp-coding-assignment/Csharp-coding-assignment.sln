@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp-coding-assignment", "Csharp-coding-assignment.csproj", "{9A95B16C-83B1-49B9-BEE3-8820959E8164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-coding-assignment.Tests", "..\Csharp-coding-assignment.Tests\Csharp-coding-assignment.Tests.csproj", "{3096570E-6CF9-4D02-9BA0-8DFF2E04B4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A95B16C-83B1-49B9-BEE3-8820959E8164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A95B16C-83B1-49B9-BEE3-8820959E8164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A95B16C-83B1-49B9-BEE3-8820959E8164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A95B16C-83B1-49B9-BEE3-8820959E8164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3096570E-6CF9-4D02-9BA0-8DFF2E04B4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3096570E-6CF9-4D02-9BA0-8DFF2E04B4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3096570E-6CF9-4D02-9BA0-8DFF2E04B4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3096570E-6CF9-4D02-9BA0-8DFF2E04B4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB2238E-B808-495D-922F-23F8FA79E963}
+	EndGlobalSection
+EndGlobal
